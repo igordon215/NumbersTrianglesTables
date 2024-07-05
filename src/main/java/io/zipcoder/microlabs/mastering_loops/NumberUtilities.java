@@ -32,7 +32,7 @@ public class NumberUtilities {
     }
 
     public static String getRange(int start) {
-        return getExponentiations(0, stop, 1, 1);
+        return getExponentiations(0,0,1,1);
     }
 
 
